@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 # Author: TheCjw<thecjw@live.com>
 # Created on 10:19 2015/3/6
 
