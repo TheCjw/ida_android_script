@@ -8,6 +8,7 @@ __author__ = "TheCjw"
 import os
 import idc
 
+
 def main():
     address = AskAddr(BADADDR, "Enter address: ")
     if address is None:
